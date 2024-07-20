@@ -1,9 +1,11 @@
 # Waterla Turn Base Game
  Waterla Turn Base Game source
 
-Thể loại game: A turn-based strategy (TBS)
-Nền tảng chạy: PC
-Công nghệ: Unity 3D
+Thể loại game: A turn-based strategy (TBS).
+
+Nền tảng chạy: PC.
+
+Công nghệ: Unity 3D.
 
 # Luật chơi
 1. Người chơi điều khiển nhân vật của mình theo lượt, với mỗi lượt sử dụng tiêu tốn điểm hành động tương ứng.
